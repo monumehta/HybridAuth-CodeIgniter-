@@ -1,0 +1,46 @@
+[30-Nov-2017 13:42:41 UTC] CSRF state token does not match one provided.
+[30-Nov-2017 13:46:08 UTC] CSRF state token does not match one provided.
+[30-Nov-2017 13:46:11 UTC] CSRF state token does not match one provided.
+[30-Nov-2017 13:46:12 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 04:28:56 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 04:36:00 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 04:36:02 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 04:37:03 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 04:37:05 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 05:54:33 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 06:06:39 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 06:10:34 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 06:14:55 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 07:05:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/xsdemo/public_html/dnksolution/hauth/application/config/hybridauthlib.php on line 81
+[01-Dec-2017 09:33:29 UTC] CSRF state token does not match one provided.
+[01-Dec-2017 13:28:52 UTC] PHP Fatal error:  Call to a member function checkSocialid() on null in /home/xsdemo/public_html/dnksolution/hauth/application/controllers/Hauth.php on line 39
+[04-Dec-2017 13:17:35 UTC] CSRF state token does not match one provided.
+[04-Dec-2017 13:17:58 UTC] CSRF state token does not match one provided.
+[04-Dec-2017 13:18:03 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 04:57:17 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 05:04:58 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 05:48:04 UTC] PHP Fatal error:  Call to a member function getAccessTokenFromCode() on null in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 105
+[05-Dec-2017 05:54:03 UTC] PHP Fatal error:  Call to a member function getAccessToken() on null in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 105
+[05-Dec-2017 06:00:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'facebook-php-sdk/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 16
+[05-Dec-2017 06:00:57 UTC] PHP Fatal error:  Call to a member function config() on null in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 47
+[05-Dec-2017 06:04:11 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 119
+[05-Dec-2017 06:04:58 UTC] PHP Fatal error:  Call to a member function getAccessTokenFromCode() on string in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 27
+[05-Dec-2017 06:06:02 UTC] PHP Fatal error:  Call to a member function destroySession() on null in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 167
+[05-Dec-2017 06:13:18 UTC] PHP Fatal error:  Call to a member function destroySession() on null in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 167
+[05-Dec-2017 06:14:44 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 06:14:46 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 06:15:10 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 06:19:07 UTC] PHP Fatal error:  Call to a member function library() on null in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 22
+[05-Dec-2017 06:19:49 UTC] PHP Fatal error:  Call to a member function library() on null in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 22
+[05-Dec-2017 06:20:22 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 06:25:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/xsdemo/public_html/dnksolution/hauth/system/application/libraries/facebook-php-sdk/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 16
+[05-Dec-2017 06:25:50 UTC] PHP Fatal error:  Call to a member function library() on null in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 24
+[05-Dec-2017 06:26:27 UTC] PHP Fatal error:  Call to a member function library() on null in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 31
+[05-Dec-2017 06:32:25 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 07:27:46 UTC] PHP Fatal error:  Call to protected method BaseFacebook::getAccessTokenFromCode() from context 'Hybrid_Providers_Facebook' in /home/xsdemo/public_html/dnksolution/hauth/application/third_party/hybridauth/Hybrid/Providers/Facebook.php on line 140
+[05-Dec-2017 07:30:49 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 07:31:29 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 07:31:48 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 07:49:08 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 07:49:32 UTC] CSRF state token does not match one provided.
+[05-Dec-2017 07:50:36 UTC] CSRF state token does not match one provided.
